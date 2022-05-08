@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="foody">Foody</string>
+    <string name="hello_explore_your_dream_food">Hello Explore Your Dream Food</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="foody_app">Foody App</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_your_food">Search your food</string>
+</resources>
